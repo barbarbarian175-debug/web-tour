@@ -1,0 +1,1 @@
+{"dependencies":{"react":"^19.1.0","react-dom":"^19.1.0"},"description":"PESONA INDO — Modern Indonesian Travel & Tourism Platform","devDependencies":{"@vitejs/plugin-react":"^4.4.1","vite":"^6.3.5"},"name":"pesona-indo","private":true,"scripts":{"build":"vite build","dev":"vite","preview":"vite preview"},"type":"module","version":"1.0.0"}
