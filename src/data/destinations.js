@@ -30,7 +30,7 @@ export const destinations = [
     price: 2450000,
     days: '4–6 hari',
     season: 'Okt – Apr',
-    image: '/assets/raja-ampat.jpg',
+    image: '/web-tour/assets/raja-ampat.jpg',
     alt: 'Kepulauan karst hijau Raja Ampat di laut turquoise Papua Barat Daya',
     desc: 'Seribu tujuh ratus pulau karst, laguna tersembunyi, dan keanekaragaman hayati laut terkaya di planet ini. Snorkeling di atas taman karang, kayak di teluk yang sunyi, dan bermalam di homestay di atas air jernih.',
     chips: ['Wayag Lagoon', 'Snorkeling Manta Point', 'Piaynemo Viewpoint', 'Homestay tepi laut'],
@@ -47,7 +47,7 @@ export const destinations = [
     price: 1850000,
     days: '3–5 hari',
     season: 'Apr – Okt',
-    image: '/assets/bali.jpg',
+    image: '/web-tour/assets/bali.jpg',
     alt: 'Pura Bali di tengah sawah terasering hijau',
     desc: 'Pulau Dewata dalam satu perjalanan utuh: pura kuno di antara sawah terasering, desa seniman Ubud, tebing Uluwatu saat senja, dan pantai-pantai selatan untuk menutup hari dengan santai.',
     chips: ['Tegalalang Rice Terrace', 'Pura Uluwatu & Kecak', 'Ubud Art Villages', 'Tanah Lot Sunset'],
@@ -64,7 +64,7 @@ export const destinations = [
     price: 2750000,
     days: '3–4 hari',
     season: 'Apr – Jun, Sep – Nov',
-    image: '/assets/padar.jpg',
+    image: '/web-tour/assets/padar.jpg',
     alt: 'Bukit dan teluk Pulau Padar di Taman Nasional Komodo',
     desc: 'Gerbang menuju Taman Nasional Komodo. Naik ke puncak Pulau Padar untuk panorama tiga teluk, berenang di Pink Beach, dan bertemu komodo bersama ranger berpengalaman di Pulau Rinca.',
     chips: ['Pulau Padar', 'Pink Beach', 'Komodo & Rinca Trek', 'Manta Point'],
@@ -81,7 +81,7 @@ export const destinations = [
     price: 950000,
     days: '1–2 hari',
     season: 'Apr – Okt',
-    image: '/assets/bromo.jpg',
+    image: '/web-tour/assets/bromo.jpg',
     alt: 'Gunung Bromo dan Gunung Semeru saat matahari terbit keemasan',
     desc: 'Matahari terbit di atas lautan pasir kaldera Tengger: jeep sebelum fajar menuju Penanjakan, menyeberangi Sea of Sand, lalu menaiki 250 anak tangga ke bibir kawah Bromo yang berasap.',
     chips: ['Penanjakan Sunrise', 'Sea of Sand Jeep Ride', 'Kawah Bromo', 'Savana Teletubbies'],
@@ -98,7 +98,7 @@ export const destinations = [
     price: 750000,
     days: '1–2 hari',
     season: 'Mei – Sep',
-    image: '/assets/borobudur.jpg',
+    image: '/web-tour/assets/borobudur.jpg',
     alt: 'Stupa Candi Borobudur berkabut saat matahari terbenam',
     desc: 'Candi Buddha terbesar di dunia, dibangun abad ke-9 dari dua juta balok andesit. Datang saat fajar untuk kabut di atas hutan Kedu, lalu lanjutkan ke desa-desa batik dan kopi di sekitarnya.',
     chips: ['Sunrise di stupa', 'Desa Candirejo', 'Prambanan', 'Kuliner Yogyakarta'],
@@ -115,7 +115,7 @@ export const destinations = [
     price: 1650000,
     days: '3–4 hari',
     season: 'Apr – Okt',
-    image: '/assets/lombok.jpg',
+    image: '/web-tour/assets/lombok.jpg',
     alt: 'Teluk berpasir putih dan perbukitan hijau di pesisir Lombok',
     desc: 'Saudara Bali yang lebih tenang: teluk-teluk selatan berbentuk tapal kuda, Gili untuk snorkeling bersama penyu, dan jalur pendakian Rinjani bagi yang ingin tantangan lebih tinggi.',
     chips: ['Selong Belanak', 'Gili Trawangan', 'Air Terjun Tiu Kelep', 'Kaki Gunung Rinjani'],
@@ -258,7 +258,7 @@ export const destinations = [
   },
 ]
 
-export const HERO_IMAGE = '/assets/hero.jpg'
+export const HERO_IMAGE = '/web-tour/assets/hero.jpg'
 export const HERO_ALT = 'Perbukitan hijau subur bertemu laut biru di pesisir Indonesia'
 
 export const formatRupiah = (n) => `Rp ${Number(n).toLocaleString('id-ID')}`

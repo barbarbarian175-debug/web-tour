@@ -14,7 +14,7 @@ export const stories = [
     readTime: '6 min read',
     bestTime: 'May – Sep · 05.00–07.00',
     localGuide: 'Agus Santoso — Magelang',
-    heroImage: '/assets/borobudur.jpg',
+    heroImage: '/web-tour/assets/borobudur.jpg',
     heroAlt: 'Stupa Candi Borobudur saat matahari terbenam berkabut',
     summary:
       'Borobudur is at its quietest before the sun is fully up. Enter through the east gate before 05.30, climb counterclockwise, and save the open stupas for last — this is our guide’s route for the quietest sunrise in Magelang, followed by a slow morning in the villages below.',
@@ -24,7 +24,7 @@ export const stories = [
       {
         number: '01',
         title: 'The east gate, before 05.30',
-        image: '/assets/borobudur.jpg',
+        image: '/web-tour/assets/borobudur.jpg',
         alt: 'Stupa Borobudur di tengah kabut pagi',
         content:
           'The day starts in the dark, and that is the point. Our guide Agus meets you at the east gate while the ticket counters are still quiet and the air smells of wet grass and incense from the villages nearby.\n\nWe walk in without rushing. The first terraces are almost empty, and the stone is still cool under your hands. By the time the sky turns pale gold, you are already above the mist — not fighting for a spot, just standing there while the Kedu plain slowly appears below.',
@@ -32,7 +32,7 @@ export const stories = [
       {
         number: '02',
         title: 'Climb counterclockwise, save the best for last',
-        image: '/assets/bali.jpg',
+        image: '/web-tour/assets/bali.jpg',
         alt: 'Pura dan sawah terasering hijau di pagi hari',
         content:
           'Borobudur rewards a slow, counterclockwise climb. Each level tells a different part of the story, carved in reliefs that are easy to miss if you hurry past them. Agus stops at the panels most visitors walk by — a ship, a market, a forest — and suddenly the whole temple reads like a book.\n\nWe save the open stupas for last. Sit for a moment beside one, listen to the birds, and watch the light move across the stone. This is the part of the morning people remember longest, and it only happens because we arrived early.',
@@ -40,7 +40,7 @@ export const stories = [
       {
         number: '03',
         title: 'Down to the villages, while the day is still young',
-        image: '/assets/bromo.jpg',
+        image: '/web-tour/assets/bromo.jpg',
         alt: 'Matahari terbit keemasan di atas pegunungan',
         content:
           'By 08.00 the crowds are arriving — and we are already on our way down. The morning continues in Candirejo village, where breakfast is simple and unhurried: warm tea, fried banana, and rice cooked over wood fire.\n\nIf you have energy left, we cycle past rice fields and small batik workshops before the heat sets in. Borobudur is famous for its sunrise, but the quiet hours after it are just as good — and they belong to the people who live here.',
@@ -57,7 +57,7 @@ export const stories = [
     readTime: '7 min read',
     bestTime: 'Apr – Jun · Sep – Nov',
     localGuide: 'Maria Fernandez — Labuan Bajo',
-    heroImage: '/assets/padar.jpg',
+    heroImage: '/web-tour/assets/padar.jpg',
     heroAlt: 'Pulau Padar, Taman Nasional Komodo, dilihat dari ketinggian',
     summary:
       'Three bays, three sand colors, one unforgettable loop. This is how we sequence Labuan Bajo’s icons — Padar at first light, Pink Beach at midday, and Komodo at golden hour — so you hike in cool air, swim when the water is clearest, and sail home as the sky turns pink.',
@@ -67,7 +67,7 @@ export const stories = [
       {
         number: '01',
         title: 'Padar at first light',
-        image: '/assets/padar.jpg',
+        image: '/web-tour/assets/padar.jpg',
         alt: 'Bukit dan teluk Pulau Padar di Taman Nasional Komodo',
         content:
           'We leave Labuan Bajo before sunrise, when the harbour is still half asleep and the boat cuts through flat water. Padar is first for a reason: the climb is short but steep, and it is far better done before the sun is high.\n\nFrom the top, three bays curve away in three different colors — white, black, and pink sand — and for a few minutes the whole viewpoint is yours. Bring water, wear proper shoes, and take your time on the way down. The boat, and breakfast, will be waiting.',
@@ -75,7 +75,7 @@ export const stories = [
       {
         number: '02',
         title: 'Pink Beach, when the water is clearest',
-        image: '/assets/raja-ampat.jpg',
+        image: '/web-tour/assets/raja-ampat.jpg',
         alt: 'Laguna turquoise dan pulau karst di laut jernih',
         content:
           'By midday we anchor at Pink Beach, where the sand really does blush pink — crushed red coral mixed with white sand, brightest in the sun. This is the swimming stop, so jump in: the water is shallow, warm, and clear enough to see reef fish without going far from shore.\n\nOur crew sets up lunch on board while you snorkel. Keep an eye out for turtles near the reef edge, and save some energy — the afternoon is for Komodo, and the walk there is in the heat.',
@@ -83,7 +83,7 @@ export const stories = [
       {
         number: '03',
         title: 'Komodo at golden hour',
-        image: '/assets/lombok.jpg',
+        image: '/web-tour/assets/lombok.jpg',
         alt: 'Teluk berpasir putih dan air turquoise di pesisir Lombok',
         content:
           'We reach Rinca in the late afternoon, when the dragons are most likely to be out and the light is soft. A ranger walks with us the whole way, keeping a respectful distance and telling us which dragon is which — they all have names, and histories.\n\nThe sail back to Labuan Bajo is the quiet ending the day deserves. The sun drops behind the islands, the boat slows down, and nobody is in a hurry to check their phone. One day, three islands, and a loop you will want to do again.',
@@ -100,7 +100,7 @@ export const stories = [
     readTime: '5 min read',
     bestTime: 'Apr – Oct · low tide mornings',
     localGuide: 'Lalu Wirawan — South Lombok',
-    heroImage: '/assets/lombok.jpg',
+    heroImage: '/web-tour/assets/lombok.jpg',
     heroAlt: 'Teluk berpasir putih dan air turquoise di pesisir Lombok',
     summary:
       'Selong Belanak at low tide, Mawun’s horseshoe cove, and a warung with the best ikan bakar on the coast. This is a slower side of Lombok worth the drive — five quiet southern bays, no crowds, and a day that moves at the pace of the tide.',
@@ -110,7 +110,7 @@ export const stories = [
       {
         number: '01',
         title: 'Selong Belanak at low tide',
-        image: '/assets/lombok.jpg',
+        image: '/web-tour/assets/lombok.jpg',
         alt: 'Teluk Selong Belanak saat air surut',
         content:
           'We start at Selong Belanak, and we time it with the tide. At low tide the bay opens up into a wide, flat stretch of white sand, perfect for a first swim and for beginner surfers learning on gentle waves.\n\nThere is no rush here. Fishermen mend nets in the shade, kids play football on the sand, and the warungs open slowly. Order a young coconut, sit for a while, and let the day set its own pace — that is the whole point of the south coast.',
@@ -118,7 +118,7 @@ export const stories = [
       {
         number: '02',
         title: 'Mawun’s horseshoe cove',
-        image: '/assets/bali.jpg',
+        image: '/web-tour/assets/bali.jpg',
         alt: 'Teluk hijau dengan sawah dan pura di pesisir',
         content:
           'A short drive east brings us to Mawun, a near-perfect horseshoe bay framed by green hills. The water is calmer here, and the sand is finer — the kind of beach where you end up staying longer than you planned.\n\nOur guide Lalu knows the best spot to sit: under the trees at the far end, away from the boats. Swim, read, or do nothing at all. In the south, doing nothing is a perfectly good plan.',
@@ -126,7 +126,7 @@ export const stories = [
       {
         number: '03',
         title: 'Ikan bakar, and the drive home',
-        image: '/assets/padar.jpg',
+        image: '/web-tour/assets/padar.jpg',
         alt: 'Teluk dan perbukitan hijau di pesisir selatan',
         content:
           'No southern Lombok day is complete without ikan bakar — grilled fish, fresh from the morning boats, eaten with rice, sambal, and lime at a small warung by the road. Lalu orders for the table, and the fish arrives still sizzling.\n\nThe drive home is part of the trip: rice fields, hills, and the sun dropping low over the coast. Five bays, one slow day, and a reminder that Lombok’s quiet side is worth the extra drive south.',
@@ -161,7 +161,7 @@ export const stories = [
       {
         number: '02',
         title: 'Rambu Solo, a farewell like no other',
-        image: '/assets/borobudur.jpg',
+        image: '/web-tour/assets/borobudur.jpg',
         alt: 'Candi batu kuno di pagi berkabut',
         content:
           'Rambu Solo is the ceremony that brings Toraja families home from across Indonesia. It is a funeral, but it feels like a festival: buffalo processions, bamboo pavilions, chanting, and hundreds of relatives sharing food for days. Death, here, is not hurried — it is honoured properly, and together.\n\nWe attend as respectful guests, never as spectators. Yohanis explains when to sit, when to stand, and what the gifts mean. The most moving moment is quiet: a family placing offerings beside the cliff burial at Lemo, where wooden tau tau figures stand guard over the dead.',
@@ -169,7 +169,7 @@ export const stories = [
       {
         number: '03',
         title: 'Batutumonga, above the clouds',
-        image: '/assets/bromo.jpg',
+        image: '/web-tour/assets/bromo.jpg',
         alt: 'Matahari terbit keemasan di atas pegunungan',
         content:
           'On the last morning we climb to Batutumonga before dawn. The village sits on the shoulder of Mount Sesean, and from here the whole of Toraja spreads out below — rice terraces, tongkonan roofs, and a sea of cloud filling the valleys.\n\nAs the sun rises, the cloud slowly lifts, and the mountains appear one by one. It is a fitting end to the journey: a culture that looks up to the mountains, and a morning that makes you understand why.',
@@ -196,7 +196,7 @@ export const stories = [
       {
         number: '01',
         title: 'The old town, at walking pace',
-        image: '/assets/bali.jpg',
+        image: '/web-tour/assets/bali.jpg',
         alt: 'Pura dan sawah terasering hijau di pagi hari',
         content:
           'Banda Neira is small enough to cross on foot in an afternoon, and that is exactly how you should see it. Colonial houses with peeling paint, a nutmeg grove behind almost every garden wall, and the smell of cloves drying in the sun.\n\nOur guide Rian stops at the old Dutch church and the house where nutmeg traders once counted their fortunes. The history is heavy — wars were fought over these islands — but the town itself is gentle, and the people who live here are proud of it without ever showing off.',
@@ -282,7 +282,7 @@ export const stories = [
       {
         number: '01',
         title: 'The climb through the mist',
-        image: '/assets/bromo.jpg',
+        image: '/web-tour/assets/bromo.jpg',
         alt: 'Matahari terbit keemasan di atas pegunungan',
         content:
           'The trek starts in Denge village, and for the first hour it is all uphill through coffee gardens and forest. Then the mist comes in — soft, white, and suddenly everywhere — and the trail becomes a tunnel of green.\n\nOur guide Fransiskus sets a slow, steady pace and stops often: for water, for wild coffee cherries, for the view when the mist briefly lifts. The climb takes about two and a half hours. Nobody rushes it, and nobody should.',
@@ -298,7 +298,7 @@ export const stories = [
       {
         number: '03',
         title: 'Morning coffee, and the walk down',
-        image: '/assets/bali.jpg',
+        image: '/web-tour/assets/bali.jpg',
         alt: 'Pura dan sawah terasering hijau di pagi hari',
         content:
           'Morning in Wae Rebo starts with coffee — Flores coffee, grown on the slopes we climbed yesterday, brewed over a wood fire and served strong and black. The mist is still below the village, and the sun comes up over a sea of cloud.\n\nWe walk down slowly, saying goodbye to the families who hosted us. The trek back feels shorter, but the village stays with you much longer. Wae Rebo is not a viewpoint you visit; it is a night you live.',
@@ -376,7 +376,7 @@ export const stories = [
       {
         number: '02',
         title: 'Ngarai Sianok and the houses of Bukittinggi',
-        image: '/assets/borobudur.jpg',
+        image: '/web-tour/assets/borobudur.jpg',
         alt: 'Candi batu kuno di pagi berkabut',
         content:
           'From Harau we drive to Bukittinggi, the highland town at the edge of Ngarai Sianok — a deep green canyon that cuts through the city itself. The viewpoint at dawn is worth the early start: mist in the canyon, the volcanoes Singgalang and Marapi on the horizon.\n\nIn town, the Minangkabau houses steal the show. Their roofs curve up like buffalo horns, and the best examples are also the most welcoming — family homes where the door is open and the tea is already on.',
@@ -384,7 +384,7 @@ export const stories = [
       {
         number: '03',
         title: 'Lunch, Minangkabau style',
-        image: '/assets/bali.jpg',
+        image: '/web-tour/assets/bali.jpg',
         alt: 'Pura dan sawah terasering hijau di pagi hari',
         content:
           'No visit to Bukittinggi is complete without a proper Nagari lunch. The table fills up all at once: rendang slow-cooked for hours, gulai ayam, sambal lado, cassava leaves, and rice — served family-style, with everyone reaching across each other.\n\nRizky explains the etiquette as we eat: eat with your right hand, take what you need, and never rush. In Minangkabau culture, a meal is not just food. It is how a community says: you belong here, for as long as you are at this table.',
@@ -419,7 +419,7 @@ export const stories = [
       {
         number: '02',
         title: 'Tomok and the stone villages',
-        image: '/assets/borobudur.jpg',
+        image: '/web-tour/assets/borobudur.jpg',
         alt: 'Candi batu kuno di pagi berkabut',
         content:
           'Tomok is the cultural heart of Samosir. Here stand the old stone chairs where Batak kings once held court, and the tomb of King Sidabutar, carved from a single block of stone. The houses nearby still carry the old boat-shaped roofs, and the carvings on their walls tell stories of buffalo, lizards, and ancestors.\n\nWe spend the afternoon in a weaving village, watching ulos cloth being made on wooden looms. Each pattern belongs to a family, and each colour means something. Hotman buys a small piece for his daughter — a pattern, he says, that means home.',
@@ -454,7 +454,7 @@ export const stories = [
       {
         number: '01',
         title: 'The midnight climb',
-        image: '/assets/bromo.jpg',
+        image: '/web-tour/assets/bromo.jpg',
         alt: 'Matahari terbit keemasan di atas pegunungan',
         content:
           'We start at midnight, headlamps on, gas masks in hand. The trail climbs steadily through the dark, and the only sounds are boots on rock and the wind in the trees. Our guide Budi has done this climb hundreds of times, and he sets a pace that keeps everyone warm without wearing anyone out.\n\nHalfway up, the stars come out — thousands of them, with no city light for hours in any direction. It is cold, it is dark, and it is completely worth it.',
